@@ -92,6 +92,5 @@ The decay product, 237Np, is also radioactive.
 ---
 
 ## 🔗 Полезные ссылки  
-[Метрики качества перевода](https://huggingface.co/metrics)  
-[Датасет WMT-16](https://huggingface.co/datasets/wmt16)  
-
+- [Метрики качества перевода](https://huggingface.co/metrics)  
+- [ALMA: Advanced Language Model-based trAnslator (arXiv)](https://arxiv.org/pdf/2309.11674)  

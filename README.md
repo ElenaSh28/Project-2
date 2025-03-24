@@ -42,7 +42,7 @@ Transformers, Pandas, NumPy, PEFT
 #### 2. Сравнение на разных датасетах  
 | Датасет       | Модель           | SacreBLEU | COMET  | METEOR |
 |--------------|------------------|-----------|--------|--------|
-| **IAEA Publication** | OPUS             | 6.31      | 0.41   | 0.37   |
+| **IAEA Publication** | OPUS             | **6.31**      | 0.41   | 0.37   |
 |              | Alma_base        | 5.07      | 0.34   | 0.30   |
 |              | Alma_fine_tuned  | 5.29      | 0.33   | 0.30   |
 | **WMT-16**       | OPUS             | 4.63      | 0.60   | 0.47   |
